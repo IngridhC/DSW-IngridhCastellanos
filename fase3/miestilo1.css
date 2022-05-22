@@ -1,0 +1,21 @@
+footer{
+    background-color: rgb(164, 200, 209);
+    text-align: center;
+    border-color: black;
+}
+pa1{
+    color: rgb(33, 88, 102);
+}
+p{
+    color:rgba(21, 44, 59, 0.979)
+}
+.centrado{
+    text-align: center;
+    color: rgba(253, 253, 253, 0.849);
+    background-color: rgb(67, 105, 141);
+    font-size:20px;
+    font-weight:bold;
+    Line-height:30px;
+    text-decoration:double;
+    text-indent:30px;
+}
